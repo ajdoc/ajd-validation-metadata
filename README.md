@@ -10,7 +10,7 @@ Metadata validation package for ajd validation which will allow you to validate 
 
 ### Installing
 
-* 
+* composer require ajd/ajd-validation-metadata
 
 ## Authors
 
