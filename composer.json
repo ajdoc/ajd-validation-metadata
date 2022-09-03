@@ -1,0 +1,26 @@
+{
+    "name": "ajd/ajd-validation-metadata",
+    "description": "metadata validation for ajd validation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aj Doc",
+            "email": "thedoctorisin17@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AjdMetadata\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    },
+    "prefer-stable": true,
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist"
+    }
+}
