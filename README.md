@@ -26,7 +26,7 @@ Aj Doc (thedoctorisin17@gmail.com)
 ## Documentation
 
 
-## 
+## Links
 * See also:
 	- [AJD validation](https://github.com/ajdoc/ajd-validation)
 	
